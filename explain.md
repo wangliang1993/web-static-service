@@ -1,9 +1,9 @@
 ## 安装mime库
 ```javascript
-npm i
+npm install wl-static-service -g
 ```
 ## 运行MyServer.js
 ```javascript
-node MyServer.js
+static-server --port 3000
 ```
 >注意事项： 默认启动3000端口
