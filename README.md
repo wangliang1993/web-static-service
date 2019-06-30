@@ -2,7 +2,7 @@
 >一个基于node的静态资源托管
 ## 全局安装static-service
 ```javascript
-npm install static-service -g
+npm install wl-static-service -g
 ```
 ## 运行MyServer.js
 ```javascript
